@@ -1,0 +1,39 @@
+C:\Users\IMA Developer\Documents\Visual Studio 2015\Projects\DatamanMirror\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\IMA Developer\Documents\Visual Studio 2015\Projects\DatamanMirror\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication14.Properties.Resources.resources
+C:\Users\IMA Developer\Documents\Visual Studio 2015\Projects\DatamanMirror\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\IMA Developer\Documents\Visual Studio 2015\Projects\DatamanMirror\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\IMA Developer\Documents\Visual Studio 2015\Projects\DatamanMirror\WindowsFormsApplication3\bin\Debug\dataman.exe.config
+C:\Users\IMA Developer\Documents\Visual Studio 2015\Projects\DatamanMirror\WindowsFormsApplication3\obj\x86\Debug\dataman.exe
+C:\Users\IMA Developer\Documents\Visual Studio 2015\Projects\DatamanMirror\WindowsFormsApplication3\obj\x86\Debug\dataman.pdb
+E:\DatamanMirror\WindowsFormsApplication3\bin\Debug\dataman.exe.config
+E:\DatamanMirror\WindowsFormsApplication3\obj\x86\Debug\dataman.exe
+E:\DatamanMirror\WindowsFormsApplication3\obj\x86\Debug\dataman.pdb
+E:\DatamanMirror\WindowsFormsApplication3\bin\Debug\dataman.exe.manifest
+E:\DatamanMirror\WindowsFormsApplication3\bin\Debug\dataman.application
+E:\DatamanMirror\WindowsFormsApplication3\bin\Debug\dataman.exe
+E:\DatamanMirror\WindowsFormsApplication3\bin\Debug\dataman.pdb
+E:\DatamanMirror\WindowsFormsApplication3\bin\Debug\MetroFramework.dll
+E:\DatamanMirror\WindowsFormsApplication3\bin\Debug\MetroFramework.Fonts.dll
+E:\DatamanMirror\WindowsFormsApplication3\bin\Debug\MySql.Data.dll
+E:\DatamanMirror\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+E:\DatamanMirror\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\DatamanMirror\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication14.Properties.Resources.resources
+E:\DatamanMirror\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+E:\DatamanMirror\WindowsFormsApplication3\obj\x86\Debug\dataman.exe.manifest
+E:\DatamanMirror\WindowsFormsApplication3\obj\x86\Debug\dataman.application
+F:\DatamanMirror\WindowsFormsApplication3\bin\Debug\dataman.exe.config
+F:\DatamanMirror\WindowsFormsApplication3\obj\x86\Debug\dataman.exe
+F:\DatamanMirror\WindowsFormsApplication3\obj\x86\Debug\dataman.pdb
+F:\DatamanMirror\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+F:\DatamanMirror\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\DatamanMirror\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication14.Properties.Resources.resources
+F:\DatamanMirror\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+F:\DatamanMirror\WindowsFormsApplication3\bin\Debug\dataman.exe.manifest
+F:\DatamanMirror\WindowsFormsApplication3\bin\Debug\dataman.application
+F:\DatamanMirror\WindowsFormsApplication3\bin\Debug\dataman.exe
+F:\DatamanMirror\WindowsFormsApplication3\bin\Debug\dataman.pdb
+F:\DatamanMirror\WindowsFormsApplication3\bin\Debug\MetroFramework.dll
+F:\DatamanMirror\WindowsFormsApplication3\bin\Debug\MetroFramework.Fonts.dll
+F:\DatamanMirror\WindowsFormsApplication3\bin\Debug\MySql.Data.dll
+F:\DatamanMirror\WindowsFormsApplication3\obj\x86\Debug\dataman.exe.manifest
+F:\DatamanMirror\WindowsFormsApplication3\obj\x86\Debug\dataman.application
